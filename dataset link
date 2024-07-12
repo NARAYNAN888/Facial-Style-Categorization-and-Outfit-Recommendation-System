@@ -1,0 +1,4 @@
+Facial Images: Use a selection of images from the CelebA dataset. You can choose images based on diversity in expression, age, and hairstyle to cover different style preferences. https://www.kaggle.com/datasets/jessicali9530/celeba-dataset
+
+Outfit Dataset: Use the Fashion MNIST dataset, which includes 10 different categories of clothing such as T-shirts, trousers, pullovers, dresses, coats, sandals, shirts, sneakers, bags, and ankle boots. These will be your style categories.
+https://www.kaggle.com/datasets/zalando-research/fashionmnist
